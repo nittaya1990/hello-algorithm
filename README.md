@@ -14,10 +14,10 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 > - PART_3_大厂面试
 > - PART_4_CS知识汇总
 >
-> [目前已支持 PDF 下载](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd)
+> [目前已支持 PDF 下载](https://www.cxyhub.com/all/programming/7786/)
 
 <div align="center">
-    <a href="https://www.geekxh.com"><img src="https://www.geekxh.com/logo_tmp.png" width="250px"></a>
+    <a href="https://www.geekxh.com"><img src="https://www.geekxh.com/logo_tmp.png" width="350px"></a>
 </div>
 
 <p align="center">
@@ -28,7 +28,15 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 <p align="center">
     <b>这也许是东半球最好的算法学习类项目！</b>
 </p>
+</br>
 
+> 我自己刷题都是在 lintcode 进行，也会在上面更新题解！下方可以直接进入~
+- [www.lintcode.com](https://www.lintcode.com/?utm_source=tf-github-xh2022)
+- [另外推荐一套算法课，北大FB双料大佬的，我之前上过，性价比很高](https://www.jiuzhang.com/course/71/?utm_source=tf-github-xh2022)
+- 最后，下方扫码可以领取我准备的刷题模板
+<p align="center">
+    <img height="200" src="https://www.cxyhub.com/wp-content/uploads/2022/08/f9e51121533b2c175bcb41ee8c05e62.jpg">
+</p>
 
 
 ### 正文
@@ -40,8 +48,6 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 - a：数据结构知识框架：为了大家更好的掌握数据结构和算法，我把基础知识整理成了一张思维导图，包括下面这些知识点：
 
 > [开始学习](PART_1_算法基础/README.md)
-
-<img height="600" src="https://www.cxyhub.com/wp-content/uploads/2021/07/algorithm-c.png">
 
 - b：对常用的数据结构知识进行总结：
 
